@@ -1,2 +1,4 @@
-# FundamentosUlacit
-Semana 7 Fundamentos de Programación 
+# Hola, mi nombre es Jose Mora
+
+
+
